@@ -1,0 +1,1331 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.508603,39.863602 ]
+    },
+    "properties": {
+    "area":128,
+    "priceperm2":28940,
+    "name":"翠成馨园",
+    "totalprice":370,
+    "bedrooms":3,
+    "schooldistrict":"1",
+    "yearbuilt":2004,
+    "floor":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.450564,39.926547 ]
+    },
+    "properties": {
+    "area":68,
+    "priceperm2":48787,
+    "name":"日坛晶华",
+    "totalprice":330,
+    "bedrooms":1,
+    "schooldistrict":"1",
+    "yearbuilt":2000,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.585161,39.87005 ]
+    },
+    "properties": {
+    "area":125,
+    "priceperm2":28400,
+    "name":"万科青青家园",
+    "totalprice":355,
+    "bedrooms":3,
+    "schooldistrict":"0",
+    "yearbuilt":2003,
+    "floor":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.432684,40.077562 ]
+    },
+    "properties": {
+    "area":129,
+    "priceperm2":21550,
+    "name":"天通苑中苑",
+    "totalprice":278,
+    "bedrooms":2,
+    "schooldistrict":"0",
+    "yearbuilt":2005,
+    "floor":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.406219,40.054427 ]
+    },
+    "properties": {
+    "area":118,
+    "priceperm2":28803,
+    "name":"清水园二期",
+    "totalprice":340,
+    "bedrooms":3,
+    "schooldistrict":"0",
+    "yearbuilt":2003,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.380923,40.007543 ]
+    },
+    "properties": {
+    "area":58,
+    "priceperm2":51396,
+    "name":"华源冠军城",
+    "totalprice":300,
+    "bedrooms":1,
+    "schooldistrict":"0",
+    "yearbuilt":2003,
+    "floor":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.69972,39.903277 ]
+    },
+    "properties": {
+    "area":104,
+    "priceperm2":20000,
+    "name":"荞馨园",
+    "totalprice":208,
+    "bedrooms":3,
+    "schooldistrict":"0",
+    "yearbuilt":2001,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.43917,40.082779 ]
+    },
+    "properties": {
+    "area":198,
+    "priceperm2":19191,
+    "name":"天通苑北三区",
+    "totalprice":380,
+    "bedrooms":3,
+    "schooldistrict":"0",
+    "yearbuilt":2005,
+    "floor":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.359778,39.937637 ]
+    },
+    "properties": {
+    "area":98,
+    "priceperm2":54081,
+    "name":"文华园",
+    "totalprice":530,
+    "bedrooms":3,
+    "schooldistrict":"1",
+    "yearbuilt":1990,
+    "floor":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.337248,39.979176 ]
+    },
+    "properties": {
+    "area":97,
+    "priceperm2":47938,
+    "name":"榆苑公寓",
+    "totalprice":465,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1990,
+    "floor":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.353677,39.910602 ]
+    },
+    "properties": {
+    "area":166,
+    "priceperm2":73493,
+    "name":"金融世家",
+    "totalprice":1220,
+    "bedrooms":3,
+    "schooldistrict":"1",
+    "yearbuilt":2005,
+    "floor":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.42515,40.052943 ]
+    },
+    "properties": {
+    "area":71,
+    "priceperm2":33604,
+    "name":"北苑家园望春园",
+    "totalprice":240,
+    "bedrooms":1,
+    "schooldistrict":"0",
+    "yearbuilt":2008,
+    "floor":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.620213,39.932805 ]
+    },
+    "properties": {
+    "area":51,
+    "priceperm2":34313,
+    "name":"北京像素南区",
+    "totalprice":175,
+    "bedrooms":2,
+    "schooldistrict":"0",
+    "yearbuilt":2012,
+    "floor":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.451574,39.978293 ]
+    },
+    "properties": {
+    "area":93,
+    "priceperm2":60002,
+    "name":"丰和园",
+    "totalprice":560,
+    "bedrooms":2,
+    "schooldistrict":"0",
+    "yearbuilt":2010,
+    "floor":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.3589,39.905769 ]
+    },
+    "properties": {
+    "area":54,
+    "priceperm2":51880,
+    "name":"西便门西里",
+    "totalprice":280,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1982,
+    "floor":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.308541,39.8396 ]
+    },
+    "properties": {
+    "area":72,
+    "priceperm2":35833,
+    "name":"怡海花园富泽园",
+    "totalprice":258,
+    "bedrooms":1,
+    "schooldistrict":"0",
+    "yearbuilt":1999,
+    "floor":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.358536,40.038507 ]
+    },
+    "properties": {
+    "area":56,
+    "priceperm2":34050,
+    "name":"永泰庄甲6号院",
+    "totalprice":190,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1988,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.423787,39.850194 ]
+    },
+    "properties": {
+    "area":58,
+    "priceperm2":32595,
+    "name":"石榴园南里小区",
+    "totalprice":190,
+    "bedrooms":2,
+    "schooldistrict":"0",
+    "yearbuilt":1995,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.430328,40.050327 ]
+    },
+    "properties": {
+    "area":111,
+    "priceperm2":27029,
+    "name":"北苑家园绣菊园",
+    "totalprice":300,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1999,
+    "floor":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.454679,39.964708 ]
+    },
+    "properties": {
+    "area":51,
+    "priceperm2":38235,
+    "name":"静安里",
+    "totalprice":195,
+    "bedrooms":2,
+    "schooldistrict":"0",
+    "yearbuilt":1986,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.374708,39.854229 ]
+    },
+    "properties": {
+    "area":57,
+    "priceperm2":31465,
+    "name":"嘉园二里",
+    "totalprice":178,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1995,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.367293,40.043059 ]
+    },
+    "properties": {
+    "area":56,
+    "priceperm2":35714,
+    "name":"怡清园",
+    "totalprice":200,
+    "bedrooms":1,
+    "schooldistrict":"0",
+    "yearbuilt":2003,
+    "floor":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.332148,39.89064 ]
+    },
+    "properties": {
+    "area":98,
+    "priceperm2":36566,
+    "name":"马连道西里",
+    "totalprice":360,
+    "bedrooms":3,
+    "schooldistrict":"1",
+    "yearbuilt":1996,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.475435,40.007694 ]
+    },
+    "properties": {
+    "area":120,
+    "priceperm2":34280,
+    "name":"星源国际",
+    "totalprice":410,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1998,
+    "floor":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.409481,40.05238 ]
+    },
+    "properties": {
+    "area":82,
+    "priceperm2":26187,
+    "name":"佳运园一期",
+    "totalprice":215,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1996,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.330198,40.074228 ]
+    },
+    "properties": {
+    "area":100,
+    "priceperm2":29940,
+    "name":"新龙城",
+    "totalprice":300,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":2005,
+    "floor":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.338123,40.045198 ]
+    },
+    "properties": {
+    "area":150,
+    "priceperm2":24975,
+    "name":"清上园",
+    "totalprice":375,
+    "bedrooms":3,
+    "schooldistrict":"1",
+    "yearbuilt":2003,
+    "floor":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.307843,39.961931 ]
+    },
+    "properties": {
+    "area":85,
+    "priceperm2":62352,
+    "name":"厂洼西街6号院",
+    "totalprice":530,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":2005,
+    "floor":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.550659,39.751402 ]
+    },
+    "properties": {
+    "area":89,
+    "priceperm2":19101,
+    "name":"融科香雪兰溪",
+    "totalprice":170,
+    "bedrooms":3,
+    "schooldistrict":"0",
+    "yearbuilt":2009,
+    "floor":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.260421,39.927665 ]
+    },
+    "properties": {
+    "area":85,
+    "priceperm2":41336,
+    "name":"玉海园二里",
+    "totalprice":350,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":2000,
+    "floor":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.306719,39.972244 ]
+    },
+    "properties": {
+    "area":139,
+    "priceperm2":59733,
+    "name":"阳春光华",
+    "totalprice":830,
+    "bedrooms":3,
+    "schooldistrict":"1",
+    "yearbuilt":1999,
+    "floor":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.282711,39.89519 ]
+    },
+    "properties": {
+    "area":146,
+    "priceperm2":45997,
+    "name":"西府兰庭",
+    "totalprice":670,
+    "bedrooms":3,
+    "schooldistrict":"0",
+    "yearbuilt":2000,
+    "floor":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.27072,39.866703 ]
+    },
+    "properties": {
+    "area":58,
+    "priceperm2":28350,
+    "name":"程庄路3号院",
+    "totalprice":165,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1980,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.352606,40.093769 ]
+    },
+    "properties": {
+    "area":119,
+    "priceperm2":19678,
+    "name":"龙回苑",
+    "totalprice":235,
+    "bedrooms":3,
+    "schooldistrict":"1",
+    "yearbuilt":2004,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.415722,39.998722 ]
+    },
+    "properties": {
+    "area":67,
+    "priceperm2":42537,
+    "name":"安慧里二区",
+    "totalprice":285,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1990,
+    "floor":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.45968,39.999245 ]
+    },
+    "properties": {
+    "area":104,
+    "priceperm2":51923,
+    "name":"北京香颂",
+    "totalprice":540,
+    "bedrooms":2,
+    "schooldistrict":"0",
+    "yearbuilt":2005,
+    "floor":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.550659,39.751402 ]
+    },
+    "properties": {
+    "area":85,
+    "priceperm2":18235,
+    "name":"融科香雪兰溪",
+    "totalprice":155,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":2007,
+    "floor":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.340759,39.988696 ]
+    },
+    "properties": {
+    "area":76,
+    "priceperm2":69934,
+    "name":"东南小区",
+    "totalprice":535,
+    "bedrooms":3,
+    "schooldistrict":"1",
+    "yearbuilt":1984,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.341182,39.770305 ]
+    },
+    "properties": {
+    "area":90,
+    "priceperm2":23333,
+    "name":"绿地中央广场",
+    "totalprice":210,
+    "bedrooms":1,
+    "schooldistrict":"0",
+    "yearbuilt":2013,
+    "floor":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.667038,39.942451 ]
+    },
+    "properties": {
+    "area":68,
+    "priceperm2":20000,
+    "name":"西潞苑小区",
+    "totalprice":136,
+    "bedrooms":1,
+    "schooldistrict":"1",
+    "yearbuilt":1997,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.411381,39.964337 ]
+    },
+    "properties": {
+    "area":51,
+    "priceperm2":57120,
+    "name":"安外大街80号院",
+    "totalprice":290,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1985,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.371187,40.00245 ]
+    },
+    "properties": {
+    "area":60,
+    "priceperm2":61390,
+    "name":"石油大院",
+    "totalprice":370,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1990,
+    "floor":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.463371,39.901678 ]
+    },
+    "properties": {
+    "area":94,
+    "priceperm2":57587,
+    "name":"富力城C区",
+    "totalprice":540,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":2004,
+    "floor":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.330208,39.980744 ]
+    },
+    "properties": {
+    "area":85,
+    "priceperm2":53278,
+    "name":"知春里",
+    "totalprice":455,
+    "bedrooms":3,
+    "schooldistrict":"1",
+    "yearbuilt":1988,
+    "floor":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.4589,39.877873 ]
+    },
+    "properties": {
+    "area":63,
+    "priceperm2":33333,
+    "name":"华威西里",
+    "totalprice":210,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1989,
+    "floor":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.367137,40.040209 ]
+    },
+    "properties": {
+    "area":58,
+    "priceperm2":33907,
+    "name":"永泰东里",
+    "totalprice":195,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1998,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.380149,39.95727 ]
+    },
+    "properties": {
+    "area":62,
+    "priceperm2":58870,
+    "name":"冰窖口胡同73号院",
+    "totalprice":365,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1983,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.59503,39.92974 ]
+    },
+    "properties": {
+    "area":93,
+    "priceperm2":32099,
+    "name":"柏林爱乐三期",
+    "totalprice":300,
+    "bedrooms":2,
+    "schooldistrict":"0",
+    "yearbuilt":2005,
+    "floor":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.647356,39.896263 ]
+    },
+    "properties": {
+    "area":127,
+    "priceperm2":21023,
+    "name":"新华联家园南区",
+    "totalprice":267,
+    "bedrooms":3,
+    "schooldistrict":"0",
+    "yearbuilt":2002,
+    "floor":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.438235,40.0707 ]
+    },
+    "properties": {
+    "area":84,
+    "priceperm2":23095,
+    "name":"天通苑东一区",
+    "totalprice":194,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":2001,
+    "floor":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.319921,39.942834 ]
+    },
+    "properties": {
+    "area":62,
+    "priceperm2":48320,
+    "name":"三虎桥南路17号院",
+    "totalprice":302,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1988,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.419193,39.963636 ]
+    },
+    "properties": {
+    "area":51,
+    "priceperm2":58100,
+    "name":"地坛北门",
+    "totalprice":298,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1980,
+    "floor":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.380888,39.986466 ]
+    },
+    "properties": {
+    "area":130,
+    "priceperm2":38399,
+    "name":"华盛家园",
+    "totalprice":500,
+    "bedrooms":3,
+    "schooldistrict":"0",
+    "yearbuilt":1998,
+    "floor":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.347204,39.741827 ]
+    },
+    "properties": {
+    "area":60,
+    "priceperm2":24666,
+    "name":"蚂蚁工房",
+    "totalprice":148,
+    "bedrooms":1,
+    "schooldistrict":"1",
+    "yearbuilt":2008,
+    "floor":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.463371,39.901678 ]
+    },
+    "properties": {
+    "area":120,
+    "priceperm2":58187,
+    "name":"富力城C区",
+    "totalprice":700,
+    "bedrooms":3,
+    "schooldistrict":"1",
+    "yearbuilt":2004,
+    "floor":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.435161,40.046999 ]
+    },
+    "properties": {
+    "area":154,
+    "priceperm2":29294,
+    "name":"北苑家园清友园",
+    "totalprice":450,
+    "bedrooms":3,
+    "schooldistrict":"0",
+    "yearbuilt":2002,
+    "floor":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.340759,39.988696 ]
+    },
+    "properties": {
+    "area":60,
+    "priceperm2":76666,
+    "name":"东南小区",
+    "totalprice":460,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1982,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.479739,39.876461 ]
+    },
+    "properties": {
+    "area":114,
+    "priceperm2":39823,
+    "name":"优品国际",
+    "totalprice":452,
+    "bedrooms":2,
+    "schooldistrict":"0",
+    "yearbuilt":2009,
+    "floor":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.30693,39.970029 ]
+    },
+    "properties": {
+    "area":180,
+    "priceperm2":52860,
+    "name":"光大花园",
+    "totalprice":950,
+    "bedrooms":4,
+    "schooldistrict":"1",
+    "yearbuilt":2000,
+    "floor":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.345204,39.833793 ]
+    },
+    "properties": {
+    "area":115,
+    "priceperm2":24347,
+    "name":"宜兰园",
+    "totalprice":280,
+    "bedrooms":3,
+    "schooldistrict":"1",
+    "yearbuilt":2008,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.427195,39.936819 ]
+    },
+    "properties": {
+    "area":57,
+    "priceperm2":45782,
+    "name":"东四六条",
+    "totalprice":260,
+    "bedrooms":3,
+    "schooldistrict":"1",
+    "yearbuilt":1988,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.419752,40.135608 ]
+    },
+    "properties": {
+    "area":103,
+    "priceperm2":18446,
+    "name":"温泉花园B区",
+    "totalprice":190,
+    "bedrooms":3,
+    "schooldistrict":"0",
+    "yearbuilt":1998,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.447756,39.896508 ]
+    },
+    "properties": {
+    "area":71,
+    "priceperm2":43661,
+    "name":"绿景馨园",
+    "totalprice":310,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":2004,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.44574,40.037958 ]
+    },
+    "properties": {
+    "area":125,
+    "priceperm2":32023,
+    "name":"北京青年城",
+    "totalprice":400,
+    "bedrooms":3,
+    "schooldistrict":"1",
+    "yearbuilt":2003,
+    "floor":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.344745,39.978934 ]
+    },
+    "properties": {
+    "area":63,
+    "priceperm2":47619,
+    "name":"汉荣家园",
+    "totalprice":300,
+    "bedrooms":1,
+    "schooldistrict":"0",
+    "yearbuilt":2000,
+    "floor":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.464558,40.008309 ]
+    },
+    "properties": {
+    "area":63,
+    "priceperm2":36770,
+    "name":"世安家园",
+    "totalprice":230,
+    "bedrooms":1,
+    "schooldistrict":"1",
+    "yearbuilt":1998,
+    "floor":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.334961,39.756068 ]
+    },
+    "properties": {
+    "area":111,
+    "priceperm2":20622,
+    "name":"枣园小区",
+    "totalprice":228,
+    "bedrooms":3,
+    "schooldistrict":"0",
+    "yearbuilt":1997,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.43917,40.082779 ]
+    },
+    "properties": {
+    "area":130,
+    "priceperm2":21153,
+    "name":"天通苑北三区",
+    "totalprice":275,
+    "bedrooms":3,
+    "schooldistrict":"0",
+    "yearbuilt":2005,
+    "floor":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.412788,39.958761 ]
+    },
+    "properties": {
+    "area":73,
+    "priceperm2":49032,
+    "name":"上龙西里",
+    "totalprice":360,
+    "bedrooms":2,
+    "schooldistrict":"0",
+    "yearbuilt":1993,
+    "floor":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.322472,39.840662 ]
+    },
+    "properties": {
+    "area":44,
+    "priceperm2":29312,
+    "name":"新村三里",
+    "totalprice":130,
+    "bedrooms":1,
+    "schooldistrict":"0",
+    "yearbuilt":1990,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.513012,39.931338 ]
+    },
+    "properties": {
+    "area":88,
+    "priceperm2":36558,
+    "name":"晨光家园",
+    "totalprice":320,
+    "bedrooms":2,
+    "schooldistrict":"0",
+    "yearbuilt":1999,
+    "floor":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.44348,39.925328 ]
+    },
+    "properties": {
+    "area":58,
+    "priceperm2":32413,
+    "name":"新金山酒店式公寓",
+    "totalprice":188,
+    "bedrooms":1,
+    "schooldistrict":"",
+    "yearbuilt":2006,
+    "floor":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.470683,39.87738 ]
+    },
+    "properties": {
+    "area":45,
+    "priceperm2":33996,
+    "name":"松榆西里",
+    "totalprice":152,
+    "bedrooms":1,
+    "schooldistrict":"1",
+    "yearbuilt":1993,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.446891,39.860543 ]
+    },
+    "properties": {
+    "area":63,
+    "priceperm2":28635,
+    "name":"四方景园四区",
+    "totalprice":180,
+    "bedrooms":2,
+    "schooldistrict":"0",
+    "yearbuilt":2000,
+    "floor":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.358379,40.018959 ]
+    },
+    "properties": {
+    "area":89,
+    "priceperm2":51821,
+    "name":"逸成东苑",
+    "totalprice":461,
+    "bedrooms":3,
+    "schooldistrict":"1",
+    "yearbuilt":2003,
+    "floor":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.564317,39.909535 ]
+    },
+    "properties": {
+    "area":87,
+    "priceperm2":27450,
+    "name":"天泰北双苑",
+    "totalprice":240,
+    "bedrooms":2,
+    "schooldistrict":"0",
+    "yearbuilt":2004,
+    "floor":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.517734,39.898065 ]
+    },
+    "properties": {
+    "area":97,
+    "priceperm2":32541,
+    "name":"沿海赛洛城",
+    "totalprice":315,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":2000,
+    "floor":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.353009,39.980769 ]
+    },
+    "properties": {
+    "area":58,
+    "priceperm2":49655,
+    "name":"罗庄东里",
+    "totalprice":288,
+    "bedrooms":2,
+    "schooldistrict":"1",
+    "yearbuilt":1995,
+    "floor":6
+    }
+  }
+]
+}
